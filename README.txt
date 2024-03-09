@@ -1,4 +1,5 @@
-Adding a line for rebasing example 
+Adding a line for rebasing example, then 
+adding more changes from my feature branch too. 
 
 
 Paradigm Shift by HTML5 UP
