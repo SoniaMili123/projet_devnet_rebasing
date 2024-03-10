@@ -1,6 +1,5 @@
 
-ajout de certaines lignes 
-pour tester le stash des fichiers non suivis
+stash in a branch
 
 
 Paradigm Shift by HTML5 UP
