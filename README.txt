@@ -1,4 +1,6 @@
-Adding line to test stash
+
+ajout de certaines lignes 
+pour tester le stash des fichiers non suivis
 
 
 Paradigm Shift by HTML5 UP
