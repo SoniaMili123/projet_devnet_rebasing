@@ -1,5 +1,4 @@
-Adding a line for rebasing example, then 
-adding more changes from my feature branch too. 
+Adding line to test stash
 
 
 Paradigm Shift by HTML5 UP
